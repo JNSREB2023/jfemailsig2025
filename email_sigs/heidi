@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bekah</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <th rowspan="5" class="jflogo"><img src="../images/logo.png" alt="Logo" width="75"></th>
+            <td class="name" style="line-height: 15px;">Heidi Jensen</td>
+        </tr>
+        <tr>
+            <td class="jobtitle" style="line-height: 12px;">Jensen Fasteners, Inc. | Operations Assistant</td>
+        </tr>
+        <tr>
+            <td class="addy" style="line-height: 12px;">7935 14th Avenue, Sacramento, CA 95758</td>
+        </tr>
+        <tr>
+            <td class="contact" style="line-height: 12px;">General: (916) 739-1227 | Direct: (916) 744-2169</td>
+        </tr>
+        <tr>
+            <td class="links" style="line-height: 10px;"><a href="http://www.jensenfasteners.com" target="_blank"><span style="font-family: Ariel, sans-serif; font-size: 12px">www.jensenfasteners.com</span></a>
+            <span style="color: balck; text-decoration: none; margin: 0px 2.5px; font-size: 12px; font-family: Ariel, sans-serif;">|</span>
+
+            <a href="https://www.instagram.com/jensenfasteners/?hl=en" target="_blank" style="text-decoration: none;">
+                <img src="../images/instalogo.png" alt="insta" width="21" style="margin: 0px 2px; vertical-align: middle;">
+            </a>
+            <a href="https://www.facebook.com/people/Jensen-Fasteners-Inc/61562342281089/" target="_blank" style="text-decoration: none;">
+                <img src="../images/facebooklogo.png" alt="insta" width="21" style="margin: 0px 2px; vertical-align: middle;"> 
+            </a>
+            <a href="https://www.linkedin.com/company/jensenfasteners?trk=public_post_follow-view-profile" target="_blank" style="text-decoration: none;">
+                <img src="../images/linkedinlogo.png" alt="insta" width="21" style="margin: 0px 2px; vertical-align: middle;">
+            </a>
+            
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
