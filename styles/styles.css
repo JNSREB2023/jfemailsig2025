@@ -1,0 +1,25 @@
+.jflogo{
+    padding-right: 8px;
+}
+
+.name{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Ariel, sans-serif;
+    padding-top: 3px;
+}
+.jobtitle{
+    font-family: Ariel, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+.addy{
+    font-family: Ariel, sans-serif;
+    font-size: 12px;
+}
+.contact{
+    font-family: Ariel, sans-serif;
+    font-size: 12px;
+}
+
+
